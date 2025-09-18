@@ -1,0 +1,4 @@
+BOT_CONFIG:
+  TOKEN: "Bot-Token"
+  PREFIX: "!"
+  IPINFO_TOKEN: "ip-infoapi"
